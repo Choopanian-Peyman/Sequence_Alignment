@@ -1,7 +1,7 @@
 # Sequence_Alignment
 
 Sequence alignment by dynamic programming.
-![BackTracingPathOnTheScoreMatrix](https://github.com/Choopanian-Peyman/Sequence_Alignment/assets/52322037/6c076369-4ba4-4ab4-b20b-ba6b53724330)
+![BackTracingPathOnTheScoreMatrix](https://github.com/Choopanian-Peyman/Sequence_Alignment/assets/52322037/7439a849-00f9-466c-939a-4a037af4c3d4)
 
 This repository contain Matlab code for global sequence alignment by Needleman/Wunsch method which using dynamic programming. 
 
